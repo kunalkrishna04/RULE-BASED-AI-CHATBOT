@@ -48,7 +48,7 @@ Bot: Python is a popular programming language.
 ## 👨‍💻 Author
 **Kunal Krishna**
 
-GitHub: https://github.com/
+GitHub: https://github.com/kunalkrishna04
 
 ## 📜 License
 This project is for educational purposes.
