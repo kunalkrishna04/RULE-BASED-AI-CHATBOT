@@ -19,7 +19,7 @@ The Rule-Based AI Chatbot is a Python-based chatbot that responds to user querie
 Rule-Based-AI-Chatbot/
 │── project 1.py
 │── README.md
-│── Rule based ai chatbot.txt
+│── Rule based ai chatbot.pdf
 ```
 
 ## ⚙️ How It Works
